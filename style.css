@@ -1,0 +1,21 @@
+*{
+    background: blanchedalmond;
+}
+img{
+    width: 1000px;
+    height: 1000px;
+}
+h1{
+    color:aquamarine;
+    background: brown;
+    font-size: 100px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color:blueviolet;
+}
+button{
+    display: block;
+    
+}
